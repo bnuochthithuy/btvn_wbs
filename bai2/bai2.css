@@ -1,0 +1,24 @@
+#container{
+    padding: 0 15px;
+}
+#product_name, #product_price, #pquantity, #button{
+    margin-top: 10px;
+}
+label {
+    display: inline-block;
+    width: 150px;
+    font-weight: bold;
+}
+#tb{
+    margin-top: 20px;
+    width: 600px;
+    border: 1px solid #bbb;
+}
+#tb tr{
+    height: 25px;
+}
+#tb tr th, #tb tr td{
+    text-align: left;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
